@@ -13,7 +13,7 @@ sniffio==1.2.0
 SQLAlchemy==1.4.25
 sqlalchemy2-stubs==0.0.2a17
 sqlmodel==0.0.4
-starlette==0.25.0
+starlette==0.47.2
 typing-extensions==3.10.0.2
 uvicorn==0.15.0
 uvloop==0.16.0
